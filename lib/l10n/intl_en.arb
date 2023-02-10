@@ -1,0 +1,6 @@
+{
+    "hello": "Hello world",
+    "title": "My app",
+    "undo": "Undo",
+    "helloMsr": "Hello mister {name}"
+}

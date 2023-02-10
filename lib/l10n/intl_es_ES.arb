@@ -1,0 +1,6 @@
+{
+    "hello": "Hola mundo",
+    "title": "Mi app",
+    "undo": "Deshacer",
+    "helloMsr": "Hola señor {name}"
+}
